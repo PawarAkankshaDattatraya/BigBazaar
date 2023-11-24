@@ -1,0 +1,9 @@
+.product-card{
+    background-color: white;
+    border: 1px solid black;
+}
+.products-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
